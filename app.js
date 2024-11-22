@@ -98,3 +98,4 @@ async function updateProduct(id, name, description, price) {
 }
 
 fetchProducts();
+
